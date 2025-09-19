@@ -1,0 +1,247 @@
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>PD SOLUÇÕES DIGITAIS</title>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+  />
+  <style>
+    body {
+      background: #000;
+      color: #fff;
+      font-family: sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    h1, h2, h3 {
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
+    .icon-green {
+      color: #00ff00;
+      margin-right: 8px;
+    }
+    .icon-purple {
+      color: #800080;
+      margin-right: 8px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 1em;
+    }
+    th, td {
+      border: 1px solid #444;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background: #111;
+    }
+    ul {
+      padding-left: 1.2em;
+    }
+    ul li {
+      margin-bottom: 0.5em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>PD SOLUÇÕES DIGITAIS</h1>
+    <p>
+      Técnico de informática autônomo com foco em oferecer soluções rápidas,
+      flexíveis e de alto valor agregado. Trabalho de forma personalizada,
+      dando total transparência a cada etapa e mantendo preços acessíveis.
+    </p>
+
+    <h2><i class="fas fa-handshake icon-green"></i>Nossos Valores</h2>
+    <ul>
+      <li>Transparência em orçamento e execução</li>
+      <li>Confiança gerada por relatórios claros</li>
+      <li>Liberdade para o cliente escolher serviços ou planos</li>
+      <li>Preços acessíveis e competitivos</li>
+      <li>Flexibilidade de atendimento autônomo</li>
+      <li>Suporte contínuo e proativo</li>
+    </ul>
+
+    <h2><i class="fas fa-cogs icon-green"></i>Combos Promocionais</h2>
+    <table>
+      <tr>
+        <th>Combo</th>
+        <th>Serviços</th>
+        <th>Preço</th>
+      </tr>
+      <tr>
+        <td>Atualização Total</td>
+        <td>Instalação de drivers; Otimização de desempenho; Instalação de programas essenciais; Limpeza de arquivos</td>
+        <td>R$ 145</td>
+      </tr>
+      <tr>
+        <td>Backup Seguro</td>
+        <td>Backup e restauração de arquivos; Diagnóstico técnico</td>
+        <td>R$ 70</td>
+      </tr>
+      <tr>
+        <td>PC Novo</td>
+        <td>Montagem; Instalação do Windows; Instalação de drivers</td>
+        <td>R$ 160</td>
+      </tr>
+      <tr>
+        <td>Limpeza Técnica</td>
+        <td>Limpeza técnica; Troca de pasta térmica</td>
+        <td>R$ 90</td>
+      </tr>
+      <tr>
+        <td>Reparo e Proteção</td>
+        <td>Reinstalação do Windows; Otimização de desempenho; Backup e restauração de arquivos</td>
+        <td>R$ 140</td>
+      </tr>
+      <tr>
+        <td>Desempenho Turbo</td>
+        <td>Limpeza técnica; Troca de pasta térmica; Diagnóstico técnico</td>
+        <td>R$ 120</td>
+      </tr>
+      <tr>
+        <td>Formatação Completa</td>
+        <td>Formatação simples; Instalação de drivers; Instalação de programas essenciais</td>
+        <td>R$ 150</td>
+      </tr>
+    </table>
+
+    <h2><i class="fas fa-wrench icon-purple"></i>Serviços Avulsos</h2>
+    <table>
+      <tr>
+        <th>Serviço</th>
+        <th>Descrição</th>
+        <th>Preço</th>
+      </tr>
+      <tr>
+        <td>Formatação simples</td>
+        <td>Formatação do sistema sem backup</td>
+        <td>R$ 90</td>
+      </tr>
+      <tr>
+        <td>Reinstalação do Windows</td>
+        <td>Instalação limpa do Windows e atualizações críticas</td>
+        <td>R$ 100</td>
+      </tr>
+      <tr>
+        <td>Reinstalação com otimização</td>
+        <td>Reinstalação do Windows + ajustes de performance</td>
+        <td>R$ 110</td>
+      </tr>
+      <tr>
+        <td>Instalação de drivers</td>
+        <td>Download e instalação de drivers oficiais</td>
+        <td>R$ 45</td>
+      </tr>
+      <tr>
+        <td>Instalação de programas essenciais</td>
+        <td>Instalação de antivírus; escritório; navegadores</td>
+        <td>R$ 40</td>
+      </tr>
+      <tr>
+        <td>Backup e restauração de arquivos</td>
+        <td>Configuração de backup e restauração de dados</td>
+        <td>R$ 55</td>
+      </tr>
+      <tr>
+        <td>Limpeza técnica</td>
+        <td>Remoção de poeira interna e externa</td>
+        <td>R$ 80</td>
+      </tr>
+      <tr>
+        <td>Diagnóstico técnico</td>
+        <td>Análise de hardware, software e logs de erro</td>
+        <td>R$ 30</td>
+      </tr>
+      <tr>
+        <td>Deslocamento técnico</td>
+        <td>Acima de 5 km (R$ 2,50/km)</td>
+        <td>R$ 2,50/km</td>
+      </tr>
+      <tr>
+        <td>Montagem de computador</td>
+        <td>Montagem de componentes e cabeamento organizado</td>
+        <td>R$ 70</td>
+      </tr>
+      <tr>
+        <td>Troca de peças (mão de obra)</td>
+        <td>Substituição de componentes por modelos compatíveis</td>
+        <td>R$ 50</td>
+      </tr>
+      <tr>
+        <td>Troca de pasta térmica</td>
+        <td>Remoção e aplicação de pasta térmica nova</td>
+        <td>R$ 45</td>
+      </tr>
+      <tr>
+        <td>Otimização de desempenho</td>
+        <td>Ajustes de software e limpeza de arquivos</td>
+        <td>R$ 50</td>
+      </tr>
+      <tr>
+        <td>Consultoria técnica</td>
+        <td>Orientação estratégica e planejamento de TI</td>
+        <td>R$ 30/h</td>
+      </tr>
+    </table>
+
+    <h2><i class="fas fa-calendar-alt icon-green"></i>Planos de Manutenção</h2>
+    <table>
+      <tr>
+        <th>Plano</th>
+        <th>Preço</th>
+        <th>Inclui</th>
+      </tr>
+      <tr>
+        <td>Semestral</td>
+        <td>R$ 260</td>
+        <td>1 visita/6 meses; diagnóstico técnico; limpeza técnica; troca de pasta térmica; otimização de desempenho; instalação de drivers; instalação de programas essenciais; backup e restauração de arquivos; suporte remoto ilimitado; 5% de desconto em avulsos; economia > 20%</td>
+      </tr>
+      <tr>
+        <td>Anual</td>
+        <td>R$ 470</td>
+        <td>2 visitas/ano; tudo do semestral; monitoramento básico de performance e segurança; prioridade no agendamento; 10% de desconto em peças e consultoria; economia > 10%</td>
+      </tr>
+      <tr>
+        <td>Pacote Flex</td>
+        <td>R$ 60/h</td>
+        <td>Mínimo 5 h/mês; acúmulo de horas por até 2 meses; escolha livre de serviços; preço fixo abaixo do avulso; ideal para demandas variáveis</td>
+      </tr>
+    </table>
+
+    <h2><i class="fas fa-thumbs-up icon-purple"></i>Por Que Escolher Meus Serviços</h2>
+    <ul>
+      <li>Atendimento direto e próximo com o técnico responsável</li>
+      <li>Orçamento transparente, sem taxas escondidas</li>
+      <li>Planos e pacotes que cabem em qualquer orçamento</li>
+      <li>Flexibilidade de horário e deslocamento rápido</li>
+      <li>Suporte contínuo para prevenção de problemas</li>
+      <li>Preços competitivos para PMEs e usuários domésticos</li>
+    </ul>
+
+    <h2><i class="fas fa-envelope icon-green"></i>Contato</h2>
+    <p>
+      WhatsApp: (31) 9 9548-3280<br/>
+      E-mail: <a href="mailto:pablosouza624@gmail.com" style="color:#00ff00;">pablosouza624@gmail.com</a><br/>
+      Telefone: (31) 9 9548-3280
+    </p>
+    <p>
+      Agende sua revisão de TI hoje mesmo e mantenha seus equipamentos rodando como novos!
+    </p>
+  </div>
+</body>
+</html>
+```
